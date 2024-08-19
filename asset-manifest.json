@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio-repo/static/css/main.1a8104f0.css",
+    "main.js": "/portfolio-repo/static/js/main.0d1b0152.js",
+    "static/js/453.82f77469.chunk.js": "/portfolio-repo/static/js/453.82f77469.chunk.js",
+    "static/media/SC.png": "/portfolio-repo/static/media/SC.1cbcc6278edbf95a3b3e.png",
+    "static/media/space4.png": "/portfolio-repo/static/media/space4.edcd8c80ea31cd27b37b.png",
+    "static/media/space2.png": "/portfolio-repo/static/media/space2.edb5a01c8b7d78a3693f.png",
+    "static/media/space3.png": "/portfolio-repo/static/media/space3.edb5a01c8b7d78a3693f.png",
+    "static/media/astronut.png": "/portfolio-repo/static/media/astronut.930740b145b654983297.png",
+    "static/media/emoion.png": "/portfolio-repo/static/media/emoion.dcdbcbb739a6123ce0b9.png",
+    "static/media/Divvy-bikes.jpg": "/portfolio-repo/static/media/Divvy-bikes.88fbb68e693643acbc9c.jpg",
+    "static/media/home-main.svg": "/portfolio-repo/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/portfolio-repo/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Sumukh.pdf": "/portfolio-repo/static/media/Sumukh.b68c1662483f30ab723e.pdf",
+    "static/media/music-streaming.png": "/portfolio-repo/static/media/music-streaming.3498944c1f9ddf700eb4.png",
+    "static/media/_.jpeg": "/portfolio-repo/static/media/_.1c96cbd69001b286fa82.jpeg",
+    "static/media/new_logo.webp": "/portfolio-repo/static/media/new_logo.c6935d1ba5c2d865f165.webp",
+    "static/media/avatar.svg": "/portfolio-repo/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/movie-review.avif": "/portfolio-repo/static/media/movie-review.dfef6a9ee9928ffcaa2d.avif",
+    "static/media/pre.svg": "/portfolio-repo/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/portfolio-repo/index.html",
+    "main.1a8104f0.css.map": "/portfolio-repo/static/css/main.1a8104f0.css.map",
+    "main.0d1b0152.js.map": "/portfolio-repo/static/js/main.0d1b0152.js.map",
+    "453.82f77469.chunk.js.map": "/portfolio-repo/static/js/453.82f77469.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8104f0.css",
+    "static/js/main.0d1b0152.js"
+  ]
+}
